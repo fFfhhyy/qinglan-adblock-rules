@@ -1,12 +1,12 @@
 {
   "version": "2026-10-27.1",
   "packUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.pack.gz",
-  "sha256": "86cc73e9ba810cc5bf112f66ff0596fe8e4bd7be2977865b1bdbad2cd8102616",
+  "sha256": "eb4ce42f6200947b507c7af01cfd1d97bc832052d4f8dc0f96cab20f36c02789",
   "size": 674428,
   "minClientVersion": 1,
   "expiresHours": 24,
   "revertTo": null,
   "channel": "dev",
   "signerKey": "test",
-  "signature": "gJvu0y5GV+ZsehrqzUzp2c8s/YVIllnQXPApMiWAL6EsYI63ToG5rDz7jNfYh+o1NxihlTJ5rFSuGz5MmJ87CA=="
+  "signature": "rJNFUnnWlsnLK+qLnAoG1cBnbyywVkjtDyXz7XIYg8W4+4wk5eFa/8K5UYDDO5i1wD/iFVH9i7AKuoBx3kyZDQ=="
 }
