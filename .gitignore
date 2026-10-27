@@ -1,2 +1,1 @@
-﻿# 发布产物由 tools/publish.ps1 上传到 Release，不进 git 历史
-dist/
+﻿# 产物随 git 发布（raw.githubusercontent.com 分发）
