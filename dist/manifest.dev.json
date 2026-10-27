@@ -1,12 +1,16 @@
 {
-  "version": "2026-10-27.3",
+  "version": "2026-10-27.4",
   "packUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.dev.pack.gz",
   "sha256": "4fa78a41c71d9ba117dfcb5c05f4171d17c04c3284d7cee20731b3ecd2b9ac51",
   "size": 674402,
+  "quickUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.dev.json",
+  "quickSha256": "b7fdf82b6a8d0f659345fc0f8ba181ce427060c0dd6a3b10a37e3a3ea6a0d28a",
+  "quickSize": 86166,
   "minClientVersion": 1,
   "expiresHours": 24,
   "revertTo": null,
   "channel": "dev",
   "signerKey": "test",
-  "signature": "wm+GtcA61bU2tqNpDffGMQ1zW0sIFLM7eto4mAXWy2qjW1Ql1LgSd1bGW5gUjQHZkJ6C7vbli8YQEVrTO+n9CQ=="
+  "signature": "SVctU3gP1mfj6cIv5T3d0phaB2wK+RsnfHfD1+hCpmRFniO4uVBWMAumNaPkRgLocrBLUhkwltQX8SPwthexCw==",
+  "signedBody": "{\"channel\":\"dev\",\"expiresHours\":24,\"minClientVersion\":1,\"packUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.dev.pack.gz\",\"quickSha256\":\"b7fdf82b6a8d0f659345fc0f8ba181ce427060c0dd6a3b10a37e3a3ea6a0d28a\",\"quickSize\":86166,\"quickUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.dev.json\",\"revertTo\":null,\"sha256\":\"4fa78a41c71d9ba117dfcb5c05f4171d17c04c3284d7cee20731b3ecd2b9ac51\",\"size\":674402,\"version\":\"2026-10-27.4\"}"
 }
