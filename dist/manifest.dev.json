@@ -1,16 +1,16 @@
 {
-  "version": "2026-11-02.1",
+  "version": "2026-11-03.2",
   "packUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.dev.pack.gz",
-  "sha256": "a584219d81235a575cc28af62ebbfa3235e0b7734cc8878291b486f563eca637",
-  "size": 674654,
+  "sha256": "71c8c4be61bb07a96b668248c713efda55ab1c0568789479e59b459bef945063",
+  "size": 674733,
   "quickUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.dev.json",
-  "quickSha256": "546ac13a40dc52402bc0ee1a5c62a144c3bf9002771be6217db2ad067da02b6c",
-  "quickSize": 86865,
+  "quickSha256": "2ecc04d868683aa70b862ed01ea56248609851e8498a7929784a24c2ee686a4e",
+  "quickSize": 87006,
   "minClientVersion": 1,
   "expiresHours": 24,
   "revertTo": null,
   "channel": "dev",
   "signerKey": "test",
-  "signature": "zRT1N37OA3I/EeAmIvrrJGuS32sr/YDZ/Z7sDIUJJ2lbomrqQmtC0mPIqkMTQgHQ2vKjXWbH3L1itIHJGK3CAA==",
-  "signedBody": "{\"channel\":\"dev\",\"expiresHours\":24,\"minClientVersion\":1,\"packUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.dev.pack.gz\",\"quickSha256\":\"546ac13a40dc52402bc0ee1a5c62a144c3bf9002771be6217db2ad067da02b6c\",\"quickSize\":86865,\"quickUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.dev.json\",\"revertTo\":null,\"sha256\":\"a584219d81235a575cc28af62ebbfa3235e0b7734cc8878291b486f563eca637\",\"size\":674654,\"version\":\"2026-11-02.1\"}"
+  "signature": "m7AqL/iKJ7qgv+Ok5/MhnwCl0nEb77qjl8PNzODnTr3ackHlQ33oLvKfqTt45IxCaPNwUvgQvrUopOCQVRFeAQ==",
+  "signedBody": "{\"channel\":\"dev\",\"expiresHours\":24,\"minClientVersion\":1,\"packUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.dev.pack.gz\",\"quickSha256\":\"2ecc04d868683aa70b862ed01ea56248609851e8498a7929784a24c2ee686a4e\",\"quickSize\":87006,\"quickUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.dev.json\",\"revertTo\":null,\"sha256\":\"71c8c4be61bb07a96b668248c713efda55ab1c0568789479e59b459bef945063\",\"size\":674733,\"version\":\"2026-11-03.2\"}"
 }
