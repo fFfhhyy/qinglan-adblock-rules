@@ -1,16 +1,16 @@
 {
-  "version": "2026-11-03.2",
+  "version": "2026-11-03.4",
   "packUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.dev.pack.gz",
   "sha256": "71c8c4be61bb07a96b668248c713efda55ab1c0568789479e59b459bef945063",
   "size": 674733,
   "quickUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.dev.json",
-  "quickSha256": "2ecc04d868683aa70b862ed01ea56248609851e8498a7929784a24c2ee686a4e",
+  "quickSha256": "9506145871aba53de5549674a40cbc94fbc8837fd583e8bce729bdfcabe0ccc6",
   "quickSize": 87006,
   "minClientVersion": 1,
   "expiresHours": 24,
   "revertTo": null,
   "channel": "dev",
   "signerKey": "test",
-  "signature": "m7AqL/iKJ7qgv+Ok5/MhnwCl0nEb77qjl8PNzODnTr3ackHlQ33oLvKfqTt45IxCaPNwUvgQvrUopOCQVRFeAQ==",
-  "signedBody": "{\"channel\":\"dev\",\"expiresHours\":24,\"minClientVersion\":1,\"packUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.dev.pack.gz\",\"quickSha256\":\"2ecc04d868683aa70b862ed01ea56248609851e8498a7929784a24c2ee686a4e\",\"quickSize\":87006,\"quickUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.dev.json\",\"revertTo\":null,\"sha256\":\"71c8c4be61bb07a96b668248c713efda55ab1c0568789479e59b459bef945063\",\"size\":674733,\"version\":\"2026-11-03.2\"}"
+  "signature": "CbdiotsASqVjv2HLeWn8Kgchr5sKp18T4JJZ5ehVhMsftWAlRMc7COJuqEak4/MojmPmcCLCRzo7cm+O7r2cBA==",
+  "signedBody": "{\"channel\":\"dev\",\"expiresHours\":24,\"minClientVersion\":1,\"packUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.dev.pack.gz\",\"quickSha256\":\"9506145871aba53de5549674a40cbc94fbc8837fd583e8bce729bdfcabe0ccc6\",\"quickSize\":87006,\"quickUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.dev.json\",\"revertTo\":null,\"sha256\":\"71c8c4be61bb07a96b668248c713efda55ab1c0568789479e59b459bef945063\",\"size\":674733,\"version\":\"2026-11-03.4\"}"
 }

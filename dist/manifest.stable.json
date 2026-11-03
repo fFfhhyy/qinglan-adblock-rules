@@ -1,16 +1,16 @@
 {
-  "version": "2026-11-03.3",
+  "version": "2026-11-03.4",
   "packUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.stable.pack.gz",
-  "sha256": "71c8c4be61bb07a96b668248c713efda55ab1c0568789479e59b459bef945063",
-  "size": 674733,
+  "sha256": "8672d53f7c6adf0294187e140ce1b70d577aa2f419e3b1b4375b51b56a735e3c",
+  "size": 674816,
   "quickUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.stable.json",
-  "quickSha256": "fcd52c455a1a5f5a8f5265bc8585f2c4dfa3e59fd5d45178e0a33863365deb4d",
-  "quickSize": 87006,
+  "quickSha256": "fe67c1fb6a947276b9bcb27f1a9e5db6617f97c49a773d0dea9fb874a26f46d3",
+  "quickSize": 87463,
   "minClientVersion": 1,
   "expiresHours": 24,
   "revertTo": null,
   "channel": "stable",
   "signerKey": "main",
-  "signature": "Nw2uELuPe+4V2GeLq7jailYBoyGImJhBTktzOaBtv7bUoSy+SlkIsiAIU8k0gwSuvV3LA0OgPau5B1efWnYBCA==",
-  "signedBody": "{\"channel\":\"stable\",\"expiresHours\":24,\"minClientVersion\":1,\"packUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.stable.pack.gz\",\"quickSha256\":\"fcd52c455a1a5f5a8f5265bc8585f2c4dfa3e59fd5d45178e0a33863365deb4d\",\"quickSize\":87006,\"quickUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.stable.json\",\"revertTo\":null,\"sha256\":\"71c8c4be61bb07a96b668248c713efda55ab1c0568789479e59b459bef945063\",\"size\":674733,\"version\":\"2026-11-03.3\"}"
+  "signature": "wG2ztiw89HxsOMUvBaHky1o+gBfLh6oOXZKJa/zzCxBE7/JgOqhJSH70PNvqSORT7w833gBpiM34WoWPSVbaCw==",
+  "signedBody": "{\"channel\":\"stable\",\"expiresHours\":24,\"minClientVersion\":1,\"packUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.stable.pack.gz\",\"quickSha256\":\"fe67c1fb6a947276b9bcb27f1a9e5db6617f97c49a773d0dea9fb874a26f46d3\",\"quickSize\":87463,\"quickUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.stable.json\",\"revertTo\":null,\"sha256\":\"8672d53f7c6adf0294187e140ce1b70d577aa2f419e3b1b4375b51b56a735e3c\",\"size\":674816,\"version\":\"2026-11-03.4\"}"
 }
