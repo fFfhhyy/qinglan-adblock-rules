@@ -1,12 +1,16 @@
 {
-  "version": "2026-10-27.1",
+  "version": "2026-11-03.1",
   "packUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.stable.pack.gz",
-  "sha256": "4fa78a41c71d9ba117dfcb5c05f4171d17c04c3284d7cee20731b3ecd2b9ac51",
-  "size": 674402,
+  "sha256": "a584219d81235a575cc28af62ebbfa3235e0b7734cc8878291b486f563eca637",
+  "size": 674654,
+  "quickUrl": "https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.stable.json",
+  "quickSha256": "5b61ffd27482f09f614bb898db592b62d8c4fb1b866f54b2d7865dbd36997abf",
+  "quickSize": 86865,
   "minClientVersion": 1,
   "expiresHours": 24,
   "revertTo": null,
   "channel": "stable",
   "signerKey": "main",
-  "signature": "f6J1eCivOgz6KYCsxx79xcJa1m6eS7dTOoRcefEcsh4dXD8KpZ55tD72Z627KRG8UCDhIO+ird2ywBHiJ48sCA=="
+  "signature": "6BAznwr0hWMyx0LdsCHb8HkVoW66T1Zo3k4JV49C5RxZkEfGmNeWKaLdB4/759UMatZU0bUnJXZooKEZEJZiBw==",
+  "signedBody": "{\"channel\":\"stable\",\"expiresHours\":24,\"minClientVersion\":1,\"packUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/adslayer-rules.stable.pack.gz\",\"quickSha256\":\"5b61ffd27482f09f614bb898db592b62d8c4fb1b866f54b2d7865dbd36997abf\",\"quickSize\":86865,\"quickUrl\":\"https://raw.githubusercontent.com/fFfhhyy/qinglan-adblock-rules/main/dist/quicklist.stable.json\",\"revertTo\":null,\"sha256\":\"a584219d81235a575cc28af62ebbfa3235e0b7734cc8878291b486f563eca637\",\"size\":674654,\"version\":\"2026-11-03.1\"}"
 }
